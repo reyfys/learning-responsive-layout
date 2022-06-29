@@ -1,0 +1,102 @@
+.containet {
+  max-width: 100%;
+}
+
+.rounded-circle {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background-color: grey;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 10px;
+}
+
+.col-md-4 p {
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.col-md-4 h1 {
+  text-align: center;
+}
+
+.square_box {
+  width: 500px;
+  height: 500px;
+  background-color: lightgrey;
+}
+
+.heading {
+  width: 326px;
+}
+
+.title_content {
+  margin-top: 112px;
+  width: 635px;
+}
+
+.text_content {
+  width: 635px;
+}
+
+.first_carousel_content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: end;
+  width: 1041px;
+  height: 240px;
+  margin-bottom: 40px;
+}
+
+.first_carousel_content p {
+  font-size: 20;
+  text-align: start;
+}
+
+.second_carousel_content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+  width: 1041px;
+  height: 240px;
+  margin-bottom: 40px;
+}
+
+.second_carousel_content p {
+  font-size: 20;
+  text-align: center;
+}
+
+.third_carousel_content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: end;
+  width: 1041px;
+  height: 240px;
+  margin-bottom: 40px;
+}
+
+.third_carousel_content p {
+  font-size: 20;
+  text-align: end;
+}
+
+.featurette-divider {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  width: 100%;
+}
+
+.footer {
+  width: 100%;
+  align-items: flex-start;
+  margin-bottom: 16px;
+}
